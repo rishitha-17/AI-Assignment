@@ -1,0 +1,4 @@
+pydantic-ai-slim[gemini]
+logfire
+google-generativeai
+pydantic
